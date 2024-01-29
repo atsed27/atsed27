@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Web 3.0 **
 
 - 👨‍💻 All of my projects are available at [https://dani-gamma.vercel.app/](https://dani-gamma.vercel.app/)
 
