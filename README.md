@@ -22,6 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarj-8&show_icons=true&locale=en&layout=compact" alt="dani" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscarj-8&" alt="oscarj-8" /></p>
 
 
 
