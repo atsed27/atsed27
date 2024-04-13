@@ -22,6 +22,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atsed27&" alt="danilap" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atsed27&show_icons=true&locale=en&layout=compact" alt="atsed27"/></p>
 
 
 
