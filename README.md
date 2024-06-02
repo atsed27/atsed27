@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack developer</h3>
 
 
-- 🔭 I’m currently working on **freelance**
+- 🔭 I’m currently working on **https://zoorya.et/**
 
 - 🌱 I’m currently learning **Web 3.0**
 
