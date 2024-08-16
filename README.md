@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack developer</h3>
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning ** DevOps **
 
 - 👨‍💻 All of my projects are available at [https://dani-gamma.vercel.app/](https://dani-gamma.vercel.app/)
 
