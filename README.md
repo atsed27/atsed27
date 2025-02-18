@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dani-gamma.vercel.app/](https://dani-gamma.vercel.app/)
 
-- 💬 Ask me about **React ,Next ,Django,Node **
+- 💬 Ask me about **JavaScript,Go **
 
 - 📫 How to reach me **danielnigatu09@gmail.com**
 
