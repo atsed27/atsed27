@@ -13,7 +13,7 @@
 - 📫 How to reach me **danielnigatu09@gmail.com**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atsed27&show_icons=true&locale=en&layout=compact" alt="atsed28" /></p>
+
 
 
 
