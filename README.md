@@ -1,6 +1,6 @@
 
 
- <h1 align="center">Hi 👋, I'm Daniel N.</h1>
+ <h1 align="center">Hi 👋, I'm Dani </h1>
 <h3 align="center">Full Stack developer</h3>
 
 
