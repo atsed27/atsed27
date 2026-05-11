@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack developer</h3>
 
 
-- 🌱 I’m currently learning ** Go **
+- 🌱 I’m currently learning ** Rust **
 
 
 
